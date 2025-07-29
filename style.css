@@ -37,24 +37,24 @@ body {
       transition: 0.2s;
     }
     button.operator {
-      background: #ffc1f3;
+      background: #fff700;
     }
     button.light {
-      background: #ffc1f3;
+      background: #fff700;
     }
     button.equal {
-      background: #f2ff00;
-      color: rgb(0, 0, 0);
+      background: #f44336;
+      color: white;
     }
     button.clear {
       background: #f44336;
       color: white;
     }
     button:hover {
-      background: #d5d5d5;
+      background: #a1a197;
     }
 
-    .back {
+    /* .back {
       margin: 50px;
       padding: 50px;
     }
@@ -72,4 +72,4 @@ body {
 
     #back-button:hover {
       background-color: #45a049;
-    }
+    } */
